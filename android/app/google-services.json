@@ -1,27 +1,87 @@
 {
   "project_info": {
-    "project_number": "790266089462",
-    "firebase_url": "https://flutterp-prep-default-rtdb.firebaseio.com",
-    "project_id": "flutterp-prep",
-    "storage_bucket": "flutterp-prep.appspot.com"
+    "project_number": "388401831817",
+    "project_id": "ricostudies-5bb22",
+    "storage_bucket": "ricostudies-5bb22.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:790266089462:android:363c5d18d70915d0c101d7",
+        "mobilesdk_app_id": "1:388401831817:android:38d6d5c8455687a8618b58",
         "android_client_info": {
-          "package_name": "com.example.chat_app"
+          "package_name": "com.example.bate_ponto"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "388401831817-kuih22dk6s3lrbda3j7ov96d6pfccloc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bate_ponto",
+            "certificate_hash": "62e4dbf1d8e4d0a28327284ec4c108ff94a3beb8"
+          }
+        },
+        {
+          "client_id": "388401831817-l178dbsarhiai8pn27ni8lmj8aehk6a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBOGYBmG86nRajGdcp1-Bb5-MZWVpfUAAU"
+          "current_key": "AIzaSyA1LvoOslyHAXqsDykFuyQuqzsy0qOnLU0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388401831817-l178dbsarhiai8pn27ni8lmj8aehk6a2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388401831817-9s7e0q7t7m3kbtm9l8i2hf7avnl1cc0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.batePonto"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388401831817:android:d3c163e862666070618b58",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388401831817-l178dbsarhiai8pn27ni8lmj8aehk6a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LvoOslyHAXqsDykFuyQuqzsy0qOnLU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388401831817-l178dbsarhiai8pn27ni8lmj8aehk6a2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388401831817-9s7e0q7t7m3kbtm9l8i2hf7avnl1cc0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.batePonto"
+              }
+            }
+          ]
         }
       }
     }
